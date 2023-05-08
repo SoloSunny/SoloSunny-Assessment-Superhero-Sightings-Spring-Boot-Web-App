@@ -1,0 +1,6 @@
+com\sg\superherosightingsspringbootwebapp\dao\HeroDaoDBTest.class
+com\sg\superherosightingsspringbootwebapp\dao\SuperpowerDaoDBTest.class
+com\sg\superherosightingsspringbootwebapp\dao\OrganizationDaoDBTest.class
+com\sg\superherosightingsspringbootwebapp\dao\SightingDaoDBTest.class
+com\sg\superherosightingsspringbootwebapp\dao\LocationDaoDBTest.class
+com\sg\superherosightingsspringbootwebapp\SuperherosightingsspringbootwebappApplicationTests.class
